@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PetitGourou1999
-- 👀 I’m interested in Computer Science, video games
-- 🌱 I’m currently learning IT
+- 👀 Interested in Computer Science and Video Games
+- 🌱 I’m currently learning IT (French IT Student)
+- Feel free to ask any questions
 
 <!---
 PetitGourou1999/PetitGourou1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
